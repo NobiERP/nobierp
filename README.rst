@@ -3,12 +3,12 @@ NobiERP
 
 NobiERP is an information system which makes it possible to manageand monitor daily, all the information and operational services of a company.
 
-.. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
-     :target: https://github.com/pydanny/cookiecutter-django/
-     :alt: Built with Cookiecutter Django
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-     :target: https://github.com/ambv/black
-     :alt: Black code style
+.. image:: https://travis-ci.com/NobiERP/nobierp.svg?branch=master
+  :target: https://travis-ci.com/NobiERP/nobierp
+.. image:: https://codecov.io/gh/NobiERP/nobierp/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/NobiERP/nobierp
+
+
 
 
 :License: GNU Affero General Public License v3 or later (AGPLv3+)
