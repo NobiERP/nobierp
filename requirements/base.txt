@@ -7,7 +7,7 @@ whitenoise==5.2.0  # https://github.com/evansd/whitenoise
 redis==3.5.3 # https://github.com/andymccurdy/redis-py
 celery==4.4.7  # pyup: < 5.0  # https://github.com/celery/celery
 django-celery-beat==2.0.0  # https://github.com/celery/django-celery-beat
-flower==0.9.4  # https://github.com/mher/flower
+flower==0.9.5  # https://github.com/mher/flower
 
 # Django
 # ------------------------------------------------------------------------------
